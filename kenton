@@ -1,0 +1,12 @@
+
+<main>
+<h1>This is a h1 element</h1>
+<p>This is a paragraph element<p>
+<!--Comment!-->
+
+<p>Look at this website!  It's called <a target="_blank" href="https://google.com">Google!</a></p>
+<a target="_blank" href="https://google.com">
+
+<img src="https://blog.hubspot.com/hs-fs/hubfs/image8-2.jpg?width=600&name=image8-2.jpg" alt="This displays an image of the icon of Google. Fun fact: Google actually had two first logos. In 1996, the logo featured an image of a hand and the company's original name, BackRub, in red font.">
+
+</a>
