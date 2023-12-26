@@ -1,7 +1,11 @@
 #Menu {
 background-color: lightblue;
+ margin-left: auto;
+margin-right: auto;
 }
 
 h2, h1, p, li, figcaption, img {
  text-align: center;
 }
+
+
