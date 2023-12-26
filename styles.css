@@ -3,6 +3,8 @@ background-color: lightblue;
  margin-left: auto;
 margin-right: auto;
 width: 80%;
+padding-top: 20px;
+padding-bottom: 20px;
 }
 
 h2, h1, p, li, figcaption, img {
