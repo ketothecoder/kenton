@@ -8,12 +8,8 @@ padding-bottom: 20px;
 max-width: 1200px;
 }
 
-#Cheeseburger {
-width: 40%;
-text-align: center;
-}
 
-h2, h1, p, li, figcaption, {
+h2, h1, p, figcaption {
  text-align: center;
 }
 
