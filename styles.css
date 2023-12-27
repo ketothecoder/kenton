@@ -9,14 +9,12 @@ max-width: 1200px;
 }
 
 #Cheeseburger {
-margin-left: auto;
-margin-right: auto;
 width: 40%;
 text-align: center;
 }
 
 }
-h2, h1, p, li, figcaption, img {
+h2, h1, p, li, figcaption, {
  text-align: center;
 }
 
