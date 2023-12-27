@@ -28,9 +28,9 @@ h2, h1, p, figcaption {
  text-align: center;
 }
 
-#BodyOfCoding {
+body {
 background-image: url(https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg);
-font-family: Avenir, Nunito;
+font-family: Nunito, serif;
 }
 
 hr {
