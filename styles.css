@@ -54,10 +54,10 @@ a:hover {
  color: black;
 }
 a:active {
- color: white;
+ color: blue;
 }
 a:visited {
- color: green;
+ color: white;
 }
 
 .hello123 {
