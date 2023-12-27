@@ -43,3 +43,7 @@ a:active {
 a:visited {
  color: green;
 }
+
+figcaption {
+color: black;
+}
