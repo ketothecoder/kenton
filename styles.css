@@ -12,6 +12,9 @@ max-width: 1200px;
 color: white;
 }
 
+.LittleLower {
+margin-bottom: 5px;
+}
 .CheeseburgerText {
 color: red;
 }
