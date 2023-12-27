@@ -30,3 +30,16 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 20px;
 }
+
+a {
+ color: grey;
+}
+a:hover {
+ color: black;
+}
+a:active {
+ color: white;
+}
+a:visited {
+ color: green;
+}
