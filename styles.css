@@ -15,6 +15,11 @@ color: white;
 .LittleLower {
 margin-bottom: -5px;
 }
+
+.LittleHigher {
+margin-top: 10px
+}
+
 .CheeseburgerText {
 color: red;
 }
