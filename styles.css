@@ -29,7 +29,9 @@ color: red;
 text-align: center;
 width: 80%;
 height: 90%;
+opacity: 1;
 }
+
 
 h2, h1, p, figcaption {
  text-align: center;
